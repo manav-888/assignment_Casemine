@@ -1,4 +1,4 @@
-# assignment_Casemine
+# NLP Web Application
 
 
 
@@ -30,3 +30,13 @@ Follow these steps to set up the project on your local machine:
    pip install -r requirements.txt
 
    ```
+## Datasets
+1. **Extract:**
+   ```
+   [IMDB Reviews](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
+   ```
+   
+
+
+
+
