@@ -1,6 +1,6 @@
 # NLP Web Application
-![Screenshot 2024-10-10 at 4 27 17 PM](https://github.com/user-attachments/assets/78d36e8a-74a2-4c3f-b5d5-f0624a79df05)
 
+![Screenshot 2024-10-10 at 7 45 44 PM](https://github.com/user-attachments/assets/8ccda2bd-0c6d-4ef2-92cd-31f8cfd90736)
 
 
 ![Screenshot 2024-10-10 at 6 02 23 PM](https://github.com/user-attachments/assets/b6055fb3-29df-47e8-acb6-3c1aa61adf68)
