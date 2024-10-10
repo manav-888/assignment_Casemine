@@ -1,0 +1,13 @@
+pandas
+numpy
+seaborn 
+matplotlib
+scikit-learn 
+datasets
+transformers
+nltk
+tensorflow
+tf-keras
+torch
+flask
+pymongo
