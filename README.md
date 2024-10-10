@@ -50,14 +50,18 @@ Follow these steps to set up the project on your local machine:
 3. **Text Classification:**
  
 - Fine-tune a pre-trained BERT model using your dataset for a classification task (e.g., sentiment analysis, topic categorization).
-- Implement using PyTorch or TensorFlow (choose one).
+- Implement using PyTorch
 - Train the model and evaluate its performance using metrics like accuracy, precision, recall, and F1-score.
-- Optimize the model's hyperparameters to improve performance.
-  Text Generation:
+
+**Text Generation:**
 - Fine-tune a pre-trained GPT-2 model to generate text based on prompts from your dataset.
-- Ensure the generated text is coherent and contextually relevant.
-- Demonstrate the model's ability by generating examples based on sample prompts.
-![image](https://github.com/user-attachments/assets/842cf770-7382-4d95-97a2-13a0926ed614)
+
+## Integration & Application Development
+
+4. **Develop an Application Interface:**
+   Create a simple web application using Flask or Django.
+
+
 
 
 
