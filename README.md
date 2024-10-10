@@ -40,7 +40,9 @@ Follow these steps to set up the project on your local machine:
 5. **Install Requirements:**
    ```
    pip install -r requirements.txt
-
+   ! pip3 install -U accelerate
+   ! pip3 install -U transformers  
+ 
    ```
 ## Datasets
 1. **Extract:**
